@@ -1,0 +1,20 @@
+{
+  "name": "graph-engineering-loop",
+  "interface": {
+    "displayName": "Graph Engineering Loop"
+  },
+  "plugins": [
+    {
+      "name": "graph-engineering-loop",
+      "source": {
+        "source": "local",
+        "path": "./plugins/graph-engineering-loop"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

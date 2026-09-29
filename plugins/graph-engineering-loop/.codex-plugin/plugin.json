@@ -1,0 +1,18 @@
+{
+  "name": "graph-engineering-loop",
+  "version": "0.1.0",
+  "description": "Bounded evidence-first engineering loops backed by persistent knowledge-graph memory.",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Graph Engineering Loop",
+    "shortDescription": "Run verified loops with graph memory.",
+    "longDescription": "Turns engineering work into a bounded hypothesis, implementation, verification, critique, and decision loop while preserving decisions and evidence in graph memory.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Run a bounded evidence-first engineering loop for this task and retain only safe, source-backed decisions in graph memory."
+  }
+}

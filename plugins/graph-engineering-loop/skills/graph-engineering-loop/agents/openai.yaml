@@ -1,0 +1,4 @@
+interface:
+  display_name: "Graph Engineering Loop"
+  short_description: "Run evidence-backed graph-memory engineering loops"
+  default_prompt: "Use graph memory to run a bounded hypothesis, implementation, verification, and decision loop with explicit stop conditions."
